@@ -58,7 +58,7 @@
 <div align="center">
   <h2>Technologies That I Use 👨🏻‍💻</h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,postgres,mongodb,prisma,git,github,tailwind,bun,java,c,c++,pythonvscode&perline=8" />
+    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,js,ts,postgres,mongodb,prisma,git,github,tailwind,bun,java,c,py,vscode&perline=8" />
   </a>
 </div>
 
