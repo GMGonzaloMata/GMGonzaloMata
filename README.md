@@ -24,7 +24,7 @@
 <!--Intro start-->
 - 🎓 Information Systems Engineering Student  
 - 💻 Web Developer: **React, Next.js, Node.js, NestJS, Prisma, PostgreSQL**  
-- 🚀 Passionate about building scalable applications and impactful projects  
+- 🚀 Passionate about building applications and impactful projects  
 - 📫 Reach me at **gonza.mata2003@gmail.com**  
 - 🤝 Let’s connect on [LinkedIn](linkedin.com/in/gonzalo-josé-mata-280196240)  
 
