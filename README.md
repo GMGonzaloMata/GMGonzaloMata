@@ -18,8 +18,8 @@
 
 <!--stats-->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&theme=dark&show_icons=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU-USUARIO&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GMGonzaloMata&theme=dark&show_icons=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=GMGonzaloMata&theme=dark" />
 </p>
 
 <!--skills-->
@@ -31,10 +31,10 @@
 <!--contact-->
 <div align="center">
   <h2>Connect With Me 🤝</h2>
-  <a href="mailto:tuemail@example.com">
+  <a href="mailto:gonza.mata2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/TU-LINKEDIN/">
+  <a href="linkedin.com/in/gonzalo-josé-mata-280196240">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
