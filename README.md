@@ -26,7 +26,7 @@
 - 💻 Web Developer: **React, Next.js, Node.js, NestJS, Prisma, PostgreSQL**  
 - 🚀 Passionate about building applications and impactful projects  
 - 📫 Reach me at **gonza.mata2003@gmail.com**  
-- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gonzalo-jose-mata-280196240/)
+- 🤝 Let’s connect on [LinkedIn]([https://www.linkedin.com/in/gonzalo-jose-mata-280196240/](https://linkedin.com/in/gonzalo-josé-mata-280196240))
 
 <!--- stats & Trophy (start) -->
 <p align="center">
