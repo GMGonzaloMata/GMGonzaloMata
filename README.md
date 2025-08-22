@@ -26,7 +26,7 @@
 - 💻 Web Developer: **React, Next.js, Node.js, NestJS, Prisma, PostgreSQL**  
 - 🚀 Passionate about building applications and impactful projects  
 - 📫 Reach me at **gonza.mata2003@gmail.com**  
-- 🤝 Let’s connect on [LinkedIn](linkedin.com/in/gonzalo-josé-mata-280196240)  
+- 🤝 Let’s connect on [LinkedIn](https://www.linkedin.com/in/gonzalo-jose-mata-280196240/)
 
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -66,10 +66,10 @@
 <div align="center">
   <h2>Connect With Me 🤝</h2>
   <a href="mailto:gonza.mata2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
-  <a href="linkedin.com/in/gonzalo-josé-mata-280196240">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+   <a href="https://www.linkedin.com/in/gonzalo-jose-mata-280196240/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
