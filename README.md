@@ -68,9 +68,9 @@
   <a href="mailto:gonza.mata2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
   </a>
-   <a href="https://www.linkedin.com/in/gonzalo-jose-mata-280196240/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<a href="https://www.linkedin.com/in/gonzalo-jos%C3%A9-mata-280196240/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
 
 <!--profile visit count-->
