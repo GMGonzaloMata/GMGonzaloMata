@@ -65,8 +65,8 @@
 <!-- Connect with me -->
 <div align="center">
   <h2>Connect With Me 🤝</h2>
-  <a href="mailto:gonza.mata2003@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me"/>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gonza.mata2003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail%20Web-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Compose in Gmail" />
   </a>
 <a href="https://www.linkedin.com/in/gonzalo-jos%C3%A9-mata-280196240/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
