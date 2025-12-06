@@ -26,27 +26,6 @@
 - 💻 Web Developer: **React, Next.js, Node.js, NestJS, Prisma, PostgreSQL**  
 - 🚀 Passionate about building applications and impactful projects  
 
-<!--- stats & Trophy (start) -->
-<p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=GMGonzaloMata&theme=dark&show_icons=true&count_private=true&hide_rank=true" />
-
-<br><br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=GMGonzaloMata&theme=dark&hide_border=false" />
-
-</td>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMGonzaloMata&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-</td>
-</tr>
-</table>
-</p>
-
 <!--- trophy -->
 <div align="center">
   <img width=84% src="https://github-profile-trophy.vercel.app/?username=GMGonzaloMata&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
