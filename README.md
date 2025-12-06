@@ -38,7 +38,7 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=gonza.mata2003@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/gonzalo-jos%C3%A9-mata-280196240/">
+  <a href="https://www.linkedin.com/in/gonzalojosemata/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
