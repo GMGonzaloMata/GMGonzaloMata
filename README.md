@@ -45,9 +45,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=GMGonzaloMata&icon=3&color=6"/>
-</p>
-
 <!-- Gradient Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
