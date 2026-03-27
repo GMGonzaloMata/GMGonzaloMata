@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Insights
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMGonzaloMata&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GMGonzaloMata&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" height="150"/>
 </p>
 
 <p align="center">
